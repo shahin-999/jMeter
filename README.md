@@ -1,5 +1,5 @@
 # jMeter
-<h3 style="color:black"><a href="https://blazedemo.com/">Blaze Demo</a></h3>
+<h3><a href="https://blazedemo.com/">Blaze Demo</a></h3>
 <ul>
   <li><a href="https://blaze-demo-report1.netlify.app" target="_blank">Report 1 </a></li>
 </ul>
